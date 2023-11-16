@@ -1,0 +1,1 @@
+# Encapsulamento__Propriedades
